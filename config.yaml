@@ -1,0 +1,7 @@
+#爬取的页面
+tieba:
+  url: http://tieba.baidu.com/f?kw=%B9%FE%B6%FB%B1%F5%B9%A4%D2%B5%B4%F3%D1%A7
+  name: 哈尔滨工业大学吧
+  id: 35522
+#页数
+page: 10
